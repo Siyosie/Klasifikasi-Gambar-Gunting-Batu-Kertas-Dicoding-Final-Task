@@ -1,4 +1,5 @@
 Proyek Akhir : Klasifikasi Gambar Gunting Batu Kertas
+
 A.	Pengantar
 Dalam course “Belajar Machine Learning untuk Pemula” bersama Dicoding Academy, saya mempelajari dasar-dasar machine learning dan bagaimana jaringan saraf bekerja. Untuk bisa lulus dari course ini, saya harus mengirimkan submission berupa program jaringan saraf tiruan menggunakan TensorFlow. Program saya harus mampu mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
 
